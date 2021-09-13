@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rogerio.esteves68@gmail.com
+	name = Rogerio Esteves
